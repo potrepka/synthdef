@@ -1,5 +1,5 @@
-#include "../src/synthdef.h"
 #include <stdio.h>
+#include "../src/synthdef.h"
 
 int main(int argc, char *argv[]) {
   if (argc != 3) {

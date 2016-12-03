@@ -1,7 +1,7 @@
-#include "byteio.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "byteio.h"
 
 #define IS_LITTLE_ENDIAN (*(uint16_t *)"\0\xff" > 0x100)
 #define BYTE_IO_DEBUG 1

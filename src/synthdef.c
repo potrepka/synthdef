@@ -1,8 +1,8 @@
-#include "byteio.h"
-#include "synthdef.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "byteio.h"
+#include "synthdef.h"
 
 int readSynthDef(FILE *fp, sc_t *scp) {
   sc_t sc = (sc_t)malloc(sizeof(struct sc));
