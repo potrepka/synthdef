@@ -1,4 +1,4 @@
-#synthdef
+# synthdef
 
 This is a small C library I wrote a couple years ago to read and write
 SuperCollider synth definitions.
