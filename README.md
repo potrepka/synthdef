@@ -14,6 +14,6 @@ bin/test input.scsyndef output.scsyndef
 
 ## License
 
-Copyright © 2015 Nathaniel Potrepka
+Copyright © 2014 Nathaniel Potrepka
 
 Distributed under the MIT License.
