@@ -8,12 +8,12 @@ SuperCollider synth definitions.
 Below are the shell commands that run the test code:
 
 ```sh
-$ make clean
-$ bin/test input.scsyndef output.scsyndef
+make clean
+bin/test input.scsyndef output.scsyndef
 ```
 
 ## License
 
-Copyright © 2016 Nathaniel Potrepka
+Copyright © 2015 Nathaniel Potrepka
 
 Distributed under the MIT License.
