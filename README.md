@@ -5,7 +5,7 @@ SuperCollider synth definitions.
 
 ## Usage
 
-Below are the shell commands that compile the test code:
+Below are the shell commands that compile and run the test code:
 
 ```sh
 make clean
